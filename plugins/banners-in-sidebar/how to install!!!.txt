@@ -1,0 +1,8 @@
+How to install?? There are two ways:
+
+• 1. Coppy the folder "plugin-for-banners-in-the-sidebar"
+  2.paste it in the directory wordpress/wp-content/plugins 
+  3. go in your site admin panel --> Plugins --> Find the plugin "Image Banner Widget" and activate it.
+   4. Go to Appearance -->  Widgets --> Find this widget (it has the same name like the plugin) --> Drag to your Sidebar --> Choose pic --> Ready 
+
+ •  Go to your Admin Panel --> Plugins --> Add new --> Upload--> choose the plugin-for-banners-in-the-sidebar.ZIP file --> When the Installation is ready Click the link " Activate plugin" -->Go to Appearance -->  Widgets --> Find this widget (it has the same name like the plugin) --> Drag to your Sidebar --> Choose pic --> Ready 
